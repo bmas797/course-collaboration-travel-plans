@@ -27,6 +27,13 @@ body {
     width: 85%;
 }
 
+
+.containerNameThis {
+    margin: auto;
+    padding: 1em;
+    width: 85%;
+}
+
 .destination-container {
     display: flex;
     flex-flow: wrap;
